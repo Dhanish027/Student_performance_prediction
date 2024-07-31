@@ -15,7 +15,7 @@ As already mentioned, with the help of the old students records, we can came up 
     3) know what the most factors affect a student performance.
 So, teachers and parents will be able to intervene before students reach the exam stage and solve the problems.
 
-## After performing EDA, We can conclude that:
+# Conclusion
 
 1.Student's Performance is related with lunch, race, parental level education
 2.Females lead in pass percentage and also are top-scorers
